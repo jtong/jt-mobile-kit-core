@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jt-partial (0.0.1)
+    moode-haml-jqm (0.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jt-partial
+  moode-haml-jqm
