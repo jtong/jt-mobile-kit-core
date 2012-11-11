@@ -3,6 +3,7 @@ GEM
   specs:
     jt-partial (0.0.1)
     moode-haml-jqm (0.0.1)
+    moode-haml-toolkit (0.0.1)
 
 PLATFORMS
   ruby
@@ -10,3 +11,4 @@ PLATFORMS
 DEPENDENCIES
   jt-partial
   moode-haml-jqm
+  moode-haml-toolkit
